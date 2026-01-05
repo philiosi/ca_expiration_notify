@@ -51,6 +51,7 @@ pip install -r requirements.txt
 ```text
 pymysql
 python-dotenv
+```
 
 ### 4.3 환경 변수 (`.env`)
 `.env`는 코드와 분리해 관리합니다.
